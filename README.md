@@ -3,7 +3,7 @@
 I'm Alejandro, a computer scientist who is interested in deep learning and web development :). 
 
 
-- 🔭 I’m currently working on a project base in React JS and in a paper base on BERT.
+- 🔭 I’m currently working on a project base on React JS and in a paper base on BERT.
 - 🌱 I’m currently learning React frameowrk and JS.
 - 👯 I’m looking to collaborate on deep learning projects :)
 - 📫 How to reach me: alemt1708@hotmail.com 
