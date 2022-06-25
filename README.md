@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![jalex3421 GitHub stats](https://github-readme-stats.vercel.app/api?username=jalex3421&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalex3421&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
