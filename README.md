@@ -14,3 +14,5 @@ I'm Alejandro, a computer scientist who is interested in deep learning and web d
 
 Here are some ideas to get you started:
 -->
+
+![jalex3421 GitHub stats](https://github-readme-stats.vercel.app/api?username=jalex3421&show_icons=true&theme=radical)
