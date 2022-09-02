@@ -3,7 +3,8 @@
 I'm Alejandro, a computer scientist who is interested in deep learning and web development :). 
 
 
-- 🔭 I have completed recently a project base on React JS and another one base on BERT.
+- 🔭 I have completed recently a project base on React JS and another one base on BERT. My react project: 
+      https://words-is-all-you-need.web.app/
 - 🌱 I’m currently learning React frameowrk and JS.
 - 👯 I’m looking to collaborate on deep learning projects :)
 - 📫 How to reach me: alemt1708@hotmail.com 
