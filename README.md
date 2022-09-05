@@ -5,7 +5,7 @@ I'm Alejandro, a computer scientist who is interested in deep learning and web d
 
 - 🔭 I have completed recently a project base on React JS and another one base on BERT. My react project: 
       https://words-is-all-you-need.web.app/
-- 🌱 I’m currently learning React frameowrk and JS.
+- 🌱 I’m currently learning React framework and JS.
 - 👯 I’m looking to collaborate on deep learning projects :)
 - 📫 How to reach me: alemt1708@hotmail.com 
 - ⚡ Fun fact: I like so much coding as learning new languages. Currently studying japanese.
