@@ -42,12 +42,8 @@ I'm a multilingual **AI Engineer & Computer Scientist** based in Japan 🇯🇵,
 ---
 
 ### 🤝 Let's Connect!
-
-- 📫 Email: [alemt1708@hotmail.com](mailto:alemt1708@hotmail.com)
-- 🌐 Portfolio: Coming soon
 - 💼 LinkedIn: [linkedin.com/in/alejandro-meza-tudela](https://www.linkedin.com/in/alejandro-meza-tudela/)
-- 📂 GitHub: [github.com/jalex3421](https://github.com/jalex3421)
-
+  
 ---
 
 ![jalex3421 GitHub stats](https://github-readme-stats.vercel.app/api?username=jalex3421&show_icons=true&theme=radical)
