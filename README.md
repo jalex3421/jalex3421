@@ -18,13 +18,10 @@ I'm a multilingual **AI Engineer & Computer Scientist** based in Japan 🇯🇵,
 
 - 📸 **Semantic Segmentation with SegFormer & DeepLabV3**  
   Fine-tuned models for aerial imagery classification (F1 > 90%) using PyTorch.
-
 - 🦾 **Swin Transformer & ViT**  
   Implemented and fine-tuned advanced transformer architectures for image classification tasks.
-
 - 🌐 **Vclassifier Web App**  
   Deployed object detection web app using **React**, **COCO SSD**, and TensorFlow.js.
-
 - 🔍 **Keyword Extraction (BERT/NLP)**  
   Developed NLP systems with **BERT**, **TextRank**, and **LDA** to analyze user reviews.
 
