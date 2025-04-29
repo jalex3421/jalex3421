@@ -40,11 +40,7 @@ I'm a multilingual **AI Engineer & Computer Scientist** based in Japan 🇯🇵,
 ---
 
 ### 🌍 Languages
-
-- 🇯🇵 **Japanese** – Business Level (JLPT N3)
-- 🇬🇧 **English** – Fluent (C2)
-- 🇪🇸 **Spanish** – Native
-- 🇩🇪 **German** – Basic
+🇯🇵 Japanese (N3) | 🇬🇧 English (C2) | 🇪🇸 Spanish (Native) | 🇩🇪 German (Basic)
 
 ---
 
