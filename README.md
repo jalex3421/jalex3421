@@ -4,6 +4,12 @@ I'm a multilingual **AI Engineer & Computer Scientist** based in Japan 🇯🇵,
 
 ---
 
+###  What I'm learning
+
+- 🧠 LLM Finetuning – Exploring how to finetune large language models using frameworks like Unsloth. Actively participating in LLM-related events in Japan and expanding my knowledge on integrating LLMs with computer vision applications. 
+
+---
+
 ### 🚀 What I Do
 
 - 🤖 **AI & Machine Learning** – I design and fine-tune models for **Computer Vision**, **Semantic Segmentation**, and **LLM-powered Agents**.
