@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Alejandro Meza Tudela
 
-I'm a multilingual **AI Engineer & Computer Scientist** based in Japan 🇯🇵, passionate about building AI systems end-to-end — from research to real-world deployment.
+I'm a multilingual **AI R&D Engineer & Computer Scientist** based in Japan 🇯🇵, passionate about building AI systems end-to-end — from research to real-world deployment.
 
 ---
 
