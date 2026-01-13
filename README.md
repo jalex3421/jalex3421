@@ -1,12 +1,16 @@
 ### 👋 Hi, I'm Alejandro Meza Tudela
 
 I'm a multilingual **AI R&D Engineer & Computer Scientist** based in Japan 🇯🇵, passionate about building AI systems end-to-end — from research to real-world deployment.
+Currently, I am focused on SOTA Computer Vision and industrial AI applications.
+---
 
 ---
 
 ###  What I'm learning
 
+- 🔬 **Semi-Supervised Learning** – Researching label-efficient frameworks for instance segmentation to optimize training pipelines.
 - 🧠 LLM Finetuning – Exploring how to finetune large language models using frameworks like Unsloth. Actively participating in LLM-related events in Japan and expanding my knowledge on integrating LLMs with computer vision applications. 
+- 📝 **Affective Computing Research** – Currently contributing to a comprehensive survey paper on **Multimodal Affective Computing**.
 
 ---
 
@@ -19,7 +23,7 @@ I'm a multilingual **AI R&D Engineer & Computer Scientist** based in Japan 🇯�
 - 🌐 **AI + Web Integration** – Built and deployed apps combining **Flask**, **ReactJS**, and **Hugging Face** APIs.
 
 ---
-
+use 
 ### 📌 Some projects that I have done
 
 - 📸 **Semantic Segmentation with SegFormer & DeepLabV3**  
