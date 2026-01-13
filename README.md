@@ -15,14 +15,13 @@ Currently, I am focused on SOTA Computer Vision and industrial AI applications.
 
 ### 🚀 What I Do
 
-- 🤖 **AI & Machine Learning** – I design and fine-tune models for **Computer Vision**, **Semantic Segmentation**, and **LLM-powered Agents**.
+- 🤖 **AI & Machine Learning** – I design and fine-tune models for **Computer Vision** (**Semantic Segmentation** / **Keypoints-detection**) , and **LLM-powered Agents**.
        Also, I have implemented from scratch architectures like Transformers or Vision Transformers.
 - 🛰️ **Geospatial AI** – Applied CV on **drone and satellite imagery** using PyTorch + geospatial libraries like GDAL/Rasterio.
 - 🕵️‍♂️ **Real-Time Object Detection** – Trained YOLO models and implemented visual pipelines for multiclass recognition.
 - 🌐 **AI + Web Integration** – Built and deployed apps combining **Flask**, **ReactJS**, and **Hugging Face** APIs.
 
 ---
-use 
 ### 📌 Some projects that I have done
 
 - 📸 **Semantic Segmentation with SegFormer & DeepLabV3**  
@@ -33,7 +32,7 @@ use
   Deployed object detection web app using **React**, **COCO SSD**, and TensorFlow.js.
 - 🔍 **Keyword Extraction (BERT/NLP)**  
   Developed NLP systems with **BERT**, **TextRank**, and **LDA** to analyze user reviews.
-
+- 📡 **Industrial IoT Pipelines** Designed end-to-end data monitoring systems using **Prometheus**, **Grafana**, and **Flask**.
 ---
 
 ### 🧰 Tech Stack
