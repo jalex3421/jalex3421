@@ -54,7 +54,6 @@ Currently, I am focused on SOTA Computer Vision and industrial AI applications.
   
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalex3421&show_icons=true&theme=radical" alt="jalex3421 GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalex3421&layout=compact&theme=radical" alt="Top Langs" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/jalex3421?template=classic&languages=1&languages.threshold=0%25&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.details=percentage&repositories=100&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FTokyo" alt="Metrics" width="100%">
 </p>
